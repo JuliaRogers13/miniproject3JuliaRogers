@@ -2,7 +2,7 @@
 ### Julia Rogers
 ### Mini Project 3
 
-## Academic Integrity
+### Academic Integrity
 
 I, Julia Rogers, affirm that the work submitted for this assignment
 is entirely my own. I have not engaged in any form of academic dishonesty,
