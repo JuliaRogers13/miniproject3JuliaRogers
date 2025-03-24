@@ -47,3 +47,4 @@ Inspiration, code snippets, etc.
 * [Flask Tutorial](https://flask.palletsprojects.com/en/stable/tutorial/)
 * [YouTube Flask Part 1](https://www.youtube.com/watch?v=Yry14DldSvs)
 * [YouTube Flask Part 2](https://www.youtube.com/watch?v=ueZepb0qFvA)
+* [YouTube Flask Part 3](https://www.youtube.com/watch?v=WuT-bi6ctjc)
