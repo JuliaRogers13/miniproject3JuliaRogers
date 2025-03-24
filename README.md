@@ -2,27 +2,14 @@
 ### Julia Rogers
 ### Mini Project 3
 
-## Academic Integrity
-
-I, Julia Rogers, affirm that the work submitted for this assignment
-is entirely my own. I have not engaged in any form of academic dishonesty,
-including but not limited to cheating, plagiarism, or the use of
-unauthorized materials. I have neither provided nor received unauthorized
-assistance and have accurately cited all sources in adherence to academic
-standards. I understand that failing to comply with this integrity
-statement may result in consequences, including disciplinary actions as
-determined by my course instructor and outlined in institutional policies.
-By signing this statement, I acknowledge my commitment to upholding the
-principles of academic integrity.
-
 # Mini Project 3
 
 ## Description
 
-This project will be using Flask to deploy a small web app.
+This project will be using Flask to deploy a small blog app.
 
 ## Getting Started
-
+ 
 ### Dependencies
 
 ```
@@ -31,23 +18,14 @@ pip install -r requirements.txt
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone the repository.
+* Install required packages.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advice for common problems or issues
-```
-command to run if program contains helper info
-```
+* Initialize the database
+* Run the app
+* Open in browser at http://127.0.0.1:5000/
 
 ## Authors
 
